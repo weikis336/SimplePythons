@@ -1,0 +1,166 @@
+{
+    "command": [
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "texto_a_imagen"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Genera una imagen empleando los parametros otorgados por el usuario."
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "imagen_a_imagen"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Genera una imagen empleando de base una imagen ya existente aportada por el usuario."
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "identifica"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Genera una descripcion en etiquetas de los objetos de una imagen que ve mediante wd14 Tagger."
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "inpaint"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Utilizando una imagen de base, genera sobre la zona enmascarada un nuevo fragmento."
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "escala"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Utilizando modelos de escalado, rescala la imagen."
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "mascara"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Mediante un detector de elementos, genera una mascara del elemento que el usuario quiera."
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "cancelar"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Cancela la generacion solicitada por el usuario"
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "about"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Informacion sobre el bot."
+                }
+            ]
+        },
+        {
+            "tag": "command",
+            "attrib": {},
+            "children": [
+                {
+                    "tag": "name",
+                    "attrib": {},
+                    "children": [],
+                    "text": "preferencias"
+                },
+                {
+                    "tag": "description",
+                    "attrib": {},
+                    "children": [],
+                    "text": "Ajusta las preferencias de generaci\u00f3n por usuario."
+                }
+            ]
+        }
+    ]
+}

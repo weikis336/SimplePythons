@@ -1,0 +1,38 @@
+<commands>
+  <command>
+    <name>texto_a_imagen</name>
+    <description>Genera una imagen empleando los parametros otorgados por el usuario.</description>
+  </command>
+  <command>
+    <name>imagen_a_imagen</name>
+    <description>Genera una imagen empleando de base una imagen ya existente aportada por el usuario.</description>
+  </command>
+  <command>
+    <name>identifica</name>
+    <description>Genera una descripcion en etiquetas de los objetos de una imagen que ve mediante wd14 Tagger.</description>
+  </command>
+  <command>
+    <name>inpaint</name>
+    <description>Utilizando una imagen de base, genera sobre la zona enmascarada un nuevo fragmento.</description>
+  </command>
+  <command>
+    <name>escala</name>
+    <description>Utilizando modelos de escalado, rescala la imagen. </description>
+  </command>
+  <command>
+    <name>mascara</name>
+    <description>Mediante un detector de elementos, genera una mascara del elemento que el usuario quiera.</description>
+  </command>
+  <command>
+    <name>cancelar</name>
+    <description>Cancela la generacion solicitada por el usuario</description>
+  </command>
+  <command>
+    <name>about</name>
+    <description>Informacion sobre el bot. </description>
+  </command>
+  <command>
+    <name>preferencias</name>
+    <description>Ajusta las preferencias de generación por usuario. </description>
+  </command>
+</commands>
