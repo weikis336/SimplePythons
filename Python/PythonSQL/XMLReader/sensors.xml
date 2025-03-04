@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datosSensores>
+    <sensor>
+        <calle>Aragó</calle>
+        <valor>8.7</valor>
+    </sensor>
+    <sensor>
+        <calle>Menorca</calle>
+        <valor>7.7</valor>
+    </sensor>
+     <sensor>
+        <calle>Eivissa</calle>
+        <valor>7.4</valor>
+    </sensor>
+    <sensor>
+        <calle>Caro</calle>
+        <valor>7.6</valor>
+    </sensor>
+</datosSensores>
